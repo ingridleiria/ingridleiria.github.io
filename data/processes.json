@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Welcome Guide",
+    "url": "/processes/welcome-guide.html",
+    "onboarding": true
+  },
+  {
+    "title": "Safety Training",
+    "url": "/processes/safety-training.html",
+    "training": true
+  },
+  {
+    "title": "Employee Handbook",
+    "url": "/processes/employee-handbook.html",
+    "onboarding": true,
+    "training": true
+  }
+]

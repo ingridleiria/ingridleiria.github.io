@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Training Processes</title>
+</head>
+<body>
+  <h1>Training</h1>
+  <ul id="process-list"></ul>
+  <script>
+    fetch('../data/processes.json')
+      .then(response => response.json())
+      .then(processes => {
+        const list = document.getElementById('process-list');
+        processes.filter(p => p.training).forEach(p => {
+          const li = document.createElement('li');
+          const a = document.createElement('a');
+          a.href = p.url;
+          a.textContent = p.title;
+          li.appendChild(a);
+          list.appendChild(li);
+        });
+      })
+      .catch(error => console.error('Failed to load processes:', error));
+  </script>
+</body>
+</html>
