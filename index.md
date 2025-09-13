@@ -1,3 +1,8 @@
+---
+layout: default
+title: Ingrid R. R. Leiria
+---
+
 # Ingrid Rafaele Rodrigues Leiria
 e-mail: ingridleiria@korea.ac.kr
 - <a href="https://www.linkedin.com/in/ingrid-leiria-25b4767a/" target="_blank">LinkedIn</a>
