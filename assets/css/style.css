@@ -1,0 +1,9 @@
+body { font-family: Arial, sans-serif; margin: 0; padding: 0; }
+header { background:#003366; color:#fff; padding:10px; display:flex; align-items:center; justify-content:space-between; }
+nav a { color:#fff; text-decoration:none; margin-right:10px; }
+.container { padding:20px; }
+button { margin:5px; padding:10px 15px; }
+.search-results { margin-top:20px; }
+.process-section { margin-bottom:20px; }
+.process-section h2 { margin-bottom:5px; }
+.return-link { display:block; margin-top:20px; }
