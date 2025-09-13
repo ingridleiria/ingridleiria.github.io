@@ -1,0 +1,13 @@
+{
+  "name": "ingridleiria.github.io",
+  "version": "1.0.0",
+  "description": "e-mail: ingridleiria@korea.ac.kr - <a href=\"https://www.linkedin.com/in/ingrid-leiria-25b4767a/\" taget=\"_blank\">LinkedIn</a>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
