@@ -1,0 +1,13 @@
+{
+  "name": "ingridleiria-github-io",
+  "version": "1.0.0",
+  "description": "Personal website for Ingrid R. R. Leiria built with Jekyll",
+  "private": true,
+  "scripts": {
+    "start": "bundle exec jekyll serve --livereload",
+    "build": "bundle exec jekyll build",
+    "test": "echo \"No tests specified\""
+  },
+  "author": "Ingrid Rafaele Rodrigues Leiria",
+  "license": "MIT"
+}
