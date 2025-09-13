@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Data Collection",
+    "objective": "Gather data from multiple sources",
+    "description": "Collects information from surveys and databases to build a comprehensive dataset.",
+    "keywords": ["collection", "data", "survey"]
+  },
+  {
+    "title": "Data Analysis",
+    "objective": "Analyze data for trends",
+    "description": "Uses statistical tools to uncover patterns and relationships.",
+    "keywords": ["analysis", "statistics", "trends"]
+  }
+]
