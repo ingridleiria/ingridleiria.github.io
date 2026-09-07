@@ -1,129 +1,127 @@
 # Ingrid Rafaele Rodrigues Leiria
-e-mail: ingridleiria@korea.ac.kr
-- <a href="https://www.linkedin.com/in/ingrid-leiria-25b4767a/" taget="_blank">LinkedIn</a>
 
+Economist. Chief of Staff. PhD candidate in Economics, Korea University Sejong.
 
-# Education
+[ingridleiria@gmail.com](mailto:ingridleiria@gmail.com) ·
+[LinkedIn](https://www.linkedin.com/in/ingrid-leiria-25b4767a) ·
+[GitHub](https://github.com/ingridleiria) ·
+[BreakTalk](https://breaktalk.substack.com) ·
+[ORCID](https://orcid.org/0000-0002-6215-860X)
 
-2018 – (Ongoing)
-Ph.D. Candidate in Economics, <a href="http://korea.edu/mbshome/mbs/en/index.do" taget="_blank">Korea University</a>
-- Area of study: Applied Microeconomic Policy
+The full version of this page is published at [ingridleiria.github.io](https://ingridleiria.github.io).
 
-2016 – 2017 
-M.A., Economics, Universidade do Vale do Rio dos Sinos  <a href="http://www.unisinos.br/" taget="_blank">(UNISINOS)</a>
-- Area of study: Microeconomic Policy
- 
-2012 – 2015 
-B.A., Economics, Universidade do Vale do Rio dos Sinos  <a href="http://www.unisinos.br/" taget="_blank">(UNISINOS)</a>
-- Area of study: Economics	
+I work on what people and organisations do when incentives and institutions change. In research that means applied
+microeconometrics on Brazilian higher education, illegal markets and entrepreneurial entry. In practice it means
+running the operating layer around a chief executive: the forecast, the board materials, the commercial models, and
+the projects that need one person to carry them. I am Brazilian, based in South Korea, and I build and run my own
+software.
 
+## Experience
 
-# Professional Appointments
-## Research Experience
-2020 – 2021:
- <strong>Research Assistant, Korean Development Institute <a href="https://kdischool.ac.kr/" taget="_blank">(KDI)</a> School of Public Policy and Management</strong>:
-Project led by Prof. Ph.D. Joshua Merfeld (KDI School) and Prof. Ph.D. Jonathan Morduch (New York University). This position consists of working with raw survey data related to household expenditures, consumption, and poverty in rural India using statistical software (STATA) to create detailed panel data set.
+**Chief of Staff, Strategy and New Technologies**, SalesSparx, United States, remote, 2024 to present
 
-## Other Professional Experience 
-2014 – 2017: 
-<strong>Administrative Analyst, HT Micron Semiconductors SA</strong>:
-Active in the facilities management area, making purchase orders, contact with suppliers, contract negotiation, budget meetings, meeting organization, and writing and training colleagues on the company internal procedures, generate weekly reports, organize and participate in team meetings.
+- Own the annual revenue forecast model and the board deck built on it. Rebuilt the pipeline tie out after finding a
+  row limit in the source extract that had silently dropped 23 open deals, a multi million dollar correction made
+  before the plan reached leadership.
+- Built the staffing, ramp and margin model behind an 18 month build operate transfer proposal for an equipment
+  services company, and the pricing that went with it: a flat monthly fee plus a success fee above breakeven, chosen
+  because the client was cash constrained and could not absorb month to month swings.
+- Led AI adoption across the firm, from no enablement to a library of reusable ChatGPT and Claude skills used inside
+  client deliverables, with training for non technical colleagues.
+- Keep the operating cadence around the chief executive and the partner team: planning, weekly updates, agendas,
+  decision follow up, hiring scorecards, and coordination across go to market, finance and delivery.
 
-2013 – 2014: 
-<strong>Administrative Assistant, HT Micron Semiconductors SA</strong>:
-Active in the administrative area, working in the facilities management area, making purchase orders, and contact with suppliers.
+**Program Manager, B2B Sales**, Stages, São Paulo, Brazil, 2023 to 2024
 
-# Research Activities
-## Articles
-Leiria, I. R. R.; Alves, T. W. (2020). ‘Rationality in decision-making: the effect of economic scenarios on voters’ decisions.’ Brazilian Journal of Business. V. 2, n. 1, pp. 113-136. ISSN: 2596-1934.
+- Built the B2B side of the business from nothing: positioning, commercial materials, and the account routine the
+  team did not have before.
+- Ran international activations, including Monaco and Madrid: budget, vendors, logistics across time zones, and the
+  client follow up afterwards.
+- Rebuilt forecasting and reporting for the B2B pipeline.
 
-## Book Chapter
+**Chief of Staff, Strategy and Governance**, Aegro, agtech SaaS, Brazil, 2021 to 2023
 
-Leiria, I. R. R. (2020). ‘SOUTH KOREAN NEW DEAL AND THE ROLE OF ECO-DIPLOMACY’. Collection of Essays on Korea’s Public Diplomacy: Possibilities and Future Outlook– Ministry of Foreign Relations. Seoul: Seoul National University Press. 
+- Ran the strategy cycle for the executive team of a venture backed company, across market research, marketing, sales
+  and operations.
+- Kept the board reporting cycle and supported the company through fundraising.
+- Built the market insights work: interviews with farmers and clients directly, intelligence reports, and client
+  demands carried back into the product roadmap.
 
-Leiria, I. R. R.; Alves, T. W.; Carvalho, A. M. (2020). ‘Rationality in Illegal Markets: The Effect of Illegal Goods Demand on Crime Rate’. Book Chapter 10. O conhecimento científico na fronteira das diversas áreas da economia. Editora Atena pp.153-178.
+**Researcher**, KDI School of Public Policy, Sejong, South Korea, 2020 to 2021
 
+- Econometric analysis of household expenditure survey microdata, written up for development practitioners rather
+  than for an academic audience.
 
-## Working Articles
-Leiria, I. R. R.; Choi, J. H. (2021). ‘LEGAL INFRASTRUCTURE IMPORTANCE ON ENTREPRENERUSHIP ENTRY: The paradox of Latin American Countries.’ (On development)
+**Administrative Analyst**, HT Micron Semicondutores, Brazil, 2013 to 2017
 
-Leiria, I. R. R.; Park, W.Y. (2021). 'Maternity and parental leave policies on life satisfaction and fertility rate in South Korea.'(On development)
+- Four years inside a Brazil and Korea semiconductor joint venture, supporting administration and operations, and
+  organising corporate events and delegation visits.
 
-Leiria, I. R. R. (2021). 'Partnership inside the households: Evidence from India.'(On development)
+## Education
 
+**PhD, Economics**, Korea University, Sejong, in progress. Advisor Prof. Hyung Jai Choi. Korean Government
+Scholarship (GKS). Applied microeconometrics on Brazilian higher education using national administrative microdata:
+panel fixed effects, difference in differences, event studies and staggered adoption estimators in Stata. Current
+chapter measures the effect of acquisitions among higher education institutions on course quality, on a sample of
+142 institutions.
 
-## Online Small Articles/Blog
+**Executive Program, Chief of Staff**, University of Oxford, 2025.
 
-Leiria, I. R. R. (February 2021) <a href="https://www.9dashline.com/article/south-koreas-new-deal-and-its-future-diplomatic-role-1" taget="_blank">‘South Korea’s New Deal and its future diplomatic role’</a> . 9dashline. Online Published article.
+**MSc, Economics**, UNISINOS, Brazil, 2016 to 2017. CAPES scholarship. Dissertation on rationality in illegal
+markets, using structural equation modelling and panel GMM.
 
-Leiria, I. R. R. (January 2021) <a href="https://asiapowerwatch.com/eco-diplomacy-and-the-korean-new-deal/" taget="_blank">‘Eco-diplomacy and the Korean New Deal’</a> .Asia Power Watch. Online Published article.
+**BA, Economics**, UNISINOS, Brazil, 2012 to 2015. Monograph built on an experiment testing how different economic
+scenarios change voter decisions.
 
-Leiria, I. R. R. (November 2020) <a href="https://latinamericanperspectives.com/the-social-welfare-policies-in-brazil-under-covid-19/" taget="_blank">‘The Social Welfare Policies in Brazil under COVID-19’</a> . Latin American Perspectives. Online Published article. 
+## Awards
 
-Leiria, I. R. R. (June 2020) <a href="https://www.oxfordurbanists.com/oxford-urbanists-monthly/2020/6/14/from-sanitation-to-education-brazils-favelas-under-covid-19" taget="_blank">‘From Sanitation to Education: Brazil's Favelas Under COVID-19’</a> . Oxford Urbanists. Online Published article.
+- **Prêmio Corecon/RS 2016**, first place, monograph category, Conselho Regional de Economia do Rio Grande do Sul.
+  [Announcement](http://www.coreconrs.org.br/noticias/530-economistas-e-jornalistas-gauchos-recebem-premios-corecon-rs-2016.html)
+- **XXIII Prêmio Brasil de Economia 2017**, third place, undergraduate monograph category, Conselho Federal de
+  Economia. [Announcement](https://cofecon.org.br/cofecon/?p=2715)
+- **XXIV Prêmio Brasil de Economia 2018**, third place, master's dissertation category, Conselho Federal de Economia.
+  [Announcement](https://cofecon.org.br/cofecon/?p=6144)
+- **Special Prize, Korean Public Diplomacy Paper Contest 2020**, Ministry of Foreign Affairs, Republic of Korea.
 
+## Publications
 
-## Presentation / Conferences
-2020, Oral presentation. Article: “FROM SANITATION TO EDUCATION: The Necessaries Overcomes of Brazilians Favelas”. 10th World Human Rights Cities Forum. Gwangju, South Korea.
+- Leiria, I. R. R.; Alves, T. W. (2020). A racionalidade na tomada de decisão: o efeito de cenários econômicos na
+  decisão de eleitores. *Brazilian Journal of Business*, 2(1), 113 to 136.
+  [Article](https://ojs.brazilianjournals.com.br/ojs/index.php/BJB/article/view/6272)
+- Leiria, I. R. R.; Alves, T. W.; Carvalho, A. M. (2020). Racionalidade no mercado ilegal: o efeito da demanda de bens
+  ilícitos na taxa de criminalidade. In *O Conhecimento Científico na Fronteira das Diversas Áreas da Economia*, Atena
+  Editora, 153 to 178. DOI 10.22533/at.ed.21620240410.
+  [Book](https://atenaeditora.com.br/catalogo/ebook/o-conhecimento-cientifico-na-fronteira-das-diversas-areas-da-economia)
+- Leiria, I. R. R. (2017). *A racionalidade no mercado ilegal: o efeito da demanda de bens ilícitos na taxa de
+  criminalidade do Rio Grande do Sul entre 2002 e 2015*. Master's dissertation, UNISINOS.
+  [Repository](http://www.repositorio.jesuita.org.br/handle/UNISINOS/6658)
+- Leiria, I. R. R. (2021). Eco-diplomacy and the Korean New Deal. *Asia Power Watch*.
+  [Article](https://asiapowerwatch.com/eco-diplomacy-and-the-korean-new-deal/)
+- Two papers presented at the Asia-Pacific Conference on Economics and Finance, Singapore, 2018.
 
-2019, Oral presentation. Article: “Entrepreneurship Entry: The Impact of Political Ideologies in Latin American Countries”. 23rd Latin American conference in Public Policies at the University of Pittsburgh (USA).
+## Open source
 
-2018 - Presentation at Asia-Pacific Conference at Financial and Economics – 2018 (APEF).
+[**breaktalk-skills**](https://github.com/ingridleiria/breaktalk-skills), more than 100 open working instructions under an MIT
+licence, in five tracks: Chief of Staff work, PhD research, brand and writing, commercial and data, and web and
+presentation. Written
+as plain Markdown methods rather than prompts, so they run in Claude, ChatGPT, Gemini or a coding assistant.
 
-2016: Oral Presentation. Article: “RATIONALITY IN DECISION-MAKING: An experiment to evaluate the effect of economic scenarios on voter’s decision in a presidential election”. ESPM International Symposium of Administration and Marketing. São Paulo (Brazil).
+## Built
 
-2016: Theme discussion: Behavioral and Experimental Economics. Economics Course Meeting.  Caxias do Sul (Brazil). XXXIX Economics’ Course Meeting, University of Caxias do Sul (UCS). CORECON/RS.
+- [**VIZZ**](https://github.com/ingridleiria/vizz-whatsapp-ai), a WhatsApp clinical assistant in production at a
+  private surgical practice in southern Brazil, built with a physician collaborator and designed around the moment
+  it should stop answering and hand the conversation to a clinician.
+- [**MyBagRADAR**](https://mybagradar.com), a daily scrape of ten authenticated resale platforms across South Korea
+  and Brazil, written into a longitudinal panel that feeds hedonic price models, value retention and survival models
+  of time to sale. [Repository](https://github.com/ingridleiria/MyBagRADAR).
+- [**ECONOS**](https://github.com/ingridleiria/econos-ai), an econometrics workspace where a model described in plain
+  language comes back as working Stata, R or Python code, run and formatted to replication standards.
 
+## Writing
 
-# Prizes
-<strong>2020, Ministry of Foreign Relations (South Korea)</strong>
-Special Prize, 2020 Korean Public Diplomacy Paper Contest
-Paper title: SOUTH KOREAN NEW DEAL AND THE ROLE OF ECO-DIPLOMACY
+[BreakTalk](https://breaktalk.substack.com), on chief of staff practice, AI adoption and the economics underneath
+both.
 
-<strong>2018, National Economic Council - COFECON (BRAZIL)</strong>
-Honorary Prize, Among National Economic Dissertation Papers
-Paper title: RATIONALITY IN ILEGAL MARKETS: The effect of illegal goods demand in the criminality rate.
+## Languages
 
-<strong>2017, National Economic Council - COFECON (BRAZIL)</strong>
-Honorary Prize, Among National Economic Bachelor’s degree Papers
-Paper title: RATIONALITY IN DECISION-MAKING: An experiment to evaluate the effect of economic scenarios on voter’s decision in a presidential election.
-
-<strong>2016, Regional Economic Council - CORECON (BRAZIL, Rio Grande do Sul)</strong>
-Grand Prize, Among Regional Economic Bachelor’s degree Papers
-Paper title: RATIONALITY IN DECISION-MAKING: An experiment to evaluate the effect of economic scenarios on voter’s decision in a presidential election.
-
-# Scholarships
-<strong>2017 – 2021.  GKS – KOREAN GOVERNMENT SCHOLARSHIP FOR GRADUATE STUDENTS</strong>
-- Ph.D. in Economics, Korea University (2018 – 2021)
-
-<strong>2016 – 2017. CAPES – BRAZILIAN GOVERNMENT SCHOLARSHIP FOR GRADUATE STUDIES</strong>
-- M.A., in Economics, Universidade do Vale do Rio dos Sinos (2016 – 2017)
-
-
-# Research Related Skills
- 
-Statistical Programming Software – STATA
-
-Office package (Word, Excel, Power Point) 
-
-Proactive
-
-Multicultural Teamwork
-
-
-# Languages		
-Portuguese (Native)
-
-English (Advanced)
-
-Spanish (Intermediate)
-
-Korean (Intermediate)	
-
-
-# Additional Activities 
-<strong>2015 – 2017:</strong> 5S (workplace organization method) Program Coordinator at HT Micron Semiconductors and Teikon.
-
-<strong>2015:</strong> Market Intelligence Training (24 hours): Universidade do Vale do Rio dos Sinos. 
-
-<strong>2015:</strong> Consumer Behavior Analysis Training (80 hours): UNIEDUCAR
+Portuguese, native. English, fluent. Spanish, advanced. Korean, intermediate.
