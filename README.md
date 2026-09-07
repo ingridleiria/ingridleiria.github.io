@@ -2,7 +2,7 @@
 
 Economist. Chief of Staff. PhD candidate in Economics, Korea University Sejong.
 
-[ingridleiria@gmail.com](mailto:ingridleiria@gmail.com) ·
+[ingrid@leiriaconsulting.com](mailto:ingrid@leiriaconsulting.com) ·
 [LinkedIn](https://www.linkedin.com/in/ingrid-leiria-25b4767a) ·
 [GitHub](https://github.com/ingridleiria) ·
 [BreakTalk](https://breaktalk.substack.com) ·
