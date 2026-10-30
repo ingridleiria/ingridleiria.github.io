@@ -1,6 +1,6 @@
 # Ingrid Rafaele Rodrigues Leiria
 
-Economist. Chief of Staff. PhD candidate in Economics, Korea University Sejong.
+Economist. Chief of Staff. Founder of Missori by BreakTalk. PhD candidate in Economics, Korea University Sejong.
 
 [ingrid@leiriaconsulting.com](mailto:ingrid@leiriaconsulting.com) ·
 [LinkedIn](https://www.linkedin.com/in/ingrid-leiria-25b4767a) ·
@@ -14,9 +14,22 @@ I work on what people and organisations do when incentives and institutions chan
 microeconometrics on Brazilian higher education, illegal markets and entrepreneurial entry. In practice it means
 running the operating layer around a chief executive: the forecast, the board materials, the commercial models, and
 the projects that need one person to carry them. I am Brazilian, based in South Korea, and I build and run my own
-software.
+software. Since September 2026 I have been building Missori, an AI partner that turns free time into local
+experiences, connecting people and businesses, starting in Sejong.
 
 ## Experience
+
+**Founder**, Missori by BreakTalk, Sejong, South Korea, 2026 to present ·
+[product overview](https://github.com/ingridleiria/missori-showcase)
+
+- [Missori](https://breaktalk.io/missori) (미소리) is an AI partner that turns free time into local experiences,
+  connecting people and businesses. It plans a day through real places nearby, checks every message to a shop by
+  translating it back before the person approves it, and talks in a voice cloned from my own with ElevenLabs.
+- Built alone so far: a public web app, an iPhone app in testing, six interface languages and a directory of 15,816
+  Sejong businesses from public records. Free tests start in December 2026, and a street pilot in Naseong-dong,
+  Sejong, runs from January to March 2027.
+- Selected for the K-Landing Challenge 2026 (Sungkyunkwan University and WorkOn), and completed OASIS-4, the startup
+  course of Korea's Global Startup Immigration Center, at the Korea Productivity Center.
 
 **Chief of Staff, Strategy and New Technologies**, SalesSparx, United States, remote, 2024 to present
 
@@ -61,9 +74,7 @@ software.
 
 **PhD, Economics**, Korea University, Sejong, in progress. Advisor Prof. Hyung Jai Choi. Korean Government
 Scholarship (GKS). Applied microeconometrics on Brazilian higher education using national administrative microdata:
-panel fixed effects, difference in differences, event studies and staggered adoption estimators in Stata. Current
-chapter measures the effect of acquisitions among higher education institutions on course quality, on a sample of
-142 institutions.
+panel fixed effects, difference in differences, event studies and staggered adoption estimators in Stata.
 
 **Executive Program, Chief of Staff**, University of Oxford, 2025.
 
